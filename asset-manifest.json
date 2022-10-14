@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/reactPortfolio/static/js/main.9753a471.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.9753a471.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.0d684c54.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.0d684c54.js.map",
+    "static/css/2.42d51ddf.chunk.css": "/reactPortfolio/static/css/2.42d51ddf.chunk.css",
+    "static/js/2.b1c8d605.chunk.js": "/reactPortfolio/static/js/2.b1c8d605.chunk.js",
+    "static/js/2.b1c8d605.chunk.js.map": "/reactPortfolio/static/js/2.b1c8d605.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/2.42d51ddf.chunk.css.map": "/reactPortfolio/static/css/2.42d51ddf.chunk.css.map",
+    "static/js/2.b1c8d605.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.b1c8d605.chunk.js.LICENSE.txt",
+    "static/media/Project3.c77c80c2.png": "/reactPortfolio/static/media/Project3.c77c80c2.png",
+    "static/media/movie-roulette-homepage-screenshot.c9d63d0c.png": "/reactPortfolio/static/media/movie-roulette-homepage-screenshot.c9d63d0c.png",
+    "static/media/screenshot.24bd52f4.PNG": "/reactPortfolio/static/media/screenshot.24bd52f4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d684c54.js",
+    "static/css/2.42d51ddf.chunk.css",
+    "static/js/2.b1c8d605.chunk.js",
+    "static/js/main.9753a471.chunk.js"
+  ]
+}
